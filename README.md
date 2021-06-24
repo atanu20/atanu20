@@ -22,3 +22,4 @@
                                                                     |===========,'
 ```
 
+<img align='right' src="https://media2.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="230">
