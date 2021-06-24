@@ -1,4 +1,4 @@
-# Hi <img  src="https://monophy.com/media/EEy7Qip0YZ27PPtC7y/monophy.gif" width="230">
+ <img  src="https://monophy.com/media/EEy7Qip0YZ27PPtC7y/monophy.gif" width="230">
 
 ```
                                                                                    \\\\\\\
