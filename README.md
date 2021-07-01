@@ -12,10 +12,10 @@ On the way to become a Full Stack Developer
 - 💻 I’m currently working on Full Stack Developer
 - ⌨️ I’m currently learning React,Node,MongoDB 
 - 👯 I’m looking to collaborate on any innovative project as a Full Stack Developer 
--
 - 💬 Ask me about anything without hesitation
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atanu20&label=Profile%20views&color=0e75b6&style=flat" alt="atanu20" /> </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,7 +25,12 @@ On the way to become a Full Stack Developer
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atanu20&show_icons=true&locale=en" alt="atanu20" /></p>
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/atanu-jana-0152ab1b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atanu-jana-0152ab1b0" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/atanu1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="atanu1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@13000219033_tmsl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@13000219033_tmsl" height="30" width="40" /></a>
+</p>
 
 <!-- 
 
