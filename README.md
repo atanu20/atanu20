@@ -4,7 +4,7 @@
 
 ## Front-end Developer | Back-end Developer | Full stack Developer
 <img align="right" src="https://github.com/atanu20/image-upload-using-react-node-mysql/blob/master/helloworld.png" width="350">
-# On the way to become a Full Stack Developer
+On the way to become a Full Stack Developer
 <br>
 
 <br>
