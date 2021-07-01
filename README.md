@@ -5,6 +5,7 @@
 ## Front-end Developer | Back-end Developer | Full stack Developer
 
 On the way to become a Full Stack Developer
+<br>
 ![Profile views](https://gpvc.arturio.dev/atanu20)  
 
 ```
