@@ -63,7 +63,7 @@ On the way to become a Full Stack Developer
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
   
   
-  <br>
+  
    <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/atanu-jana-0152ab1b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atanu-jana-0152ab1b0" height="30" width="40" /></a>
