@@ -11,7 +11,7 @@ On the way to become a Full Stack Developer
 - 💻 I’m currently working on Full Stack Developer <br>
 - ⌨️ I’m currently learning React,Node,MongoDB   <br>
 - 👯 I’m looking to collaborate on any innovative project as a Full Stack Developer   <br>
-- 💬 Ask me about anything without hesitation <br>
+- 💬 Ask me about anything without any hesitation <br>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atanu20&label=Profile%20views&color=0e75b6&style=flat" alt="atanu20" /> </p>
 
