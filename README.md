@@ -16,7 +16,8 @@ On the way to become a Full Stack Developer
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atanu20&label=Profile%20views&color=0e75b6&style=flat" alt="atanu20" /> </p>
 
-![Linkedin: thaianebraga](https://www.linkedin.com/in/atanu-jana-0152ab1b0/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+(https://www.linkedin.com/in/atanu-jana-0152ab1b0/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
