@@ -15,7 +15,7 @@ On the way to become a Full Stack Developer
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atanu20&label=Profile%20views&color=0e75b6&style=flat" alt="atanu20" /> </p>
 
- <img align="right" src="https://github.com/atanu20/image-upload-using-react-node-mysql/blob/master/helloworld.png" width="230">
+ <img align="right" src="https://github.com/atanu20/image-upload-using-react-node-mysql/blob/master/helloworld.png" width="350">
 
 
 
