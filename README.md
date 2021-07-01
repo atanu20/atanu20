@@ -1,4 +1,11 @@
- <img  src="https://monophy.com/media/EEy7Qip0YZ27PPtC7y/monophy.gif" width="230">
+<!--  <img  src="https://monophy.com/media/EEy7Qip0YZ27PPtC7y/monophy.gif" width="230"> -->
+
+# Atanu Jana
+
+## Front-end Developer | Back-end Developer | Full stack Developer
+
+On the way to become a Full Stack Developer
+![Profile views](https://gpvc.arturio.dev/atanu20)  
 
 ```
                                                                                    \\\\\\\
