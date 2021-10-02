@@ -8,7 +8,7 @@ On the way to become a Full Stack Developer
 <br>
 
 <br>
-- 💻 I’m currently working on Full Stack Developer <br>
+- 💻 I’m currently working as a Full Stack Developer <br>
 - ⌨️ I’m currently learning React,Node,MongoDB   <br>
 - 👯 I’m looking to collaborate on any innovative project as a Full Stack Developer   <br>
 - 💬 Ask me about anything without any hesitation <br>
