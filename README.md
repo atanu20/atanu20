@@ -16,7 +16,7 @@ On the way to become a Full Stack Developer
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atanu20&label=Profile%20views&color=0e75b6&style=flat" alt="atanu20" /> </p>
 
  
-<b>PortFolio Website :  https://matanu.netlify.app/ </b>
+<b>Resume :  https://atanujana-resume.netlify.app/ </b>
 <p>Some Of My Live Works: https://docs.google.com/document/d/1PA8o0IZ85LycYDbBlTbpyt3d6vOeP7KZCiu78wNkZAc/edit?usp=sharing </p>
 
 
