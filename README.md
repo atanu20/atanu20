@@ -45,7 +45,7 @@ On the way to become a Full Stack Developer
 <p align="left">
 <a href="https://linkedin.com/in/atanu-jana-0152ab1b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atanu-jana-0152ab1b0" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/atanu1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="atanu1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@13000219033_tmsl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@13000219033_tmsl" height="30" width="40" /></a> <a href="https://leetcode.com/atanuj383/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atanuj383" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@13000219033_tmsl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@13000219033_tmsl" height="30" width="40" /></a> <a href="https://leetcode.com/abc20/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atanuj383" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atanu20&show_icons=true&locale=en&layout=compact" alt="atanu20" /></p>
