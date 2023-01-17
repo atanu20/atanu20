@@ -53,7 +53,7 @@ On the way to become a Full Stack Developer
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atanu20&show_icons=true&locale=en" alt="atanu20" /></p> -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atanu20&layout=compact) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atanu20&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atanu20&layout=compact)
 
 ![Atanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=atanu20&show_icons=true&theme=dark#radical)
 ![Atanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=atanu20&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
