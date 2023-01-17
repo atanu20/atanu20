@@ -55,7 +55,7 @@ On the way to become a Full Stack Developer
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atanu20&layout=compact) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atanu20&langs_count=5)
 
-![Atanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=atanu20&show_icons=true&theme=dark#gh-dark-mode-only)
+![Atanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=atanu20&show_icons=true&theme=dark#radical)
 
 
 <!-- 
