@@ -48,9 +48,9 @@ On the way to become a Full Stack Developer
 <a href="https://www.hackerrank.com/13000219033_TMSL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="13000219033_TMSL" height="30" width="40" /></a> <a href="https://leetcode.com/mAtanu/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atanuj383" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atanu20&show_icons=true&locale=en&layout=compact" alt="atanu20" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atanu20&show_icons=true&locale=en&layout=compact" alt="atanu20" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atanu20&show_icons=true&locale=en" alt="atanu20" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atanu20&show_icons=true&locale=en" alt="atanu20" /></p> -->
 
 
 
